@@ -25,4 +25,4 @@ Qoutes is a front-end web application built using **HTML** and **JavaScript** (n
 
 ---
 
-## 📁 Project Structure  
+
